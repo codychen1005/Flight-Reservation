@@ -35,12 +35,9 @@ customer
 http://localhost:8080/336test/homet.jsp
 
 ***Please look up how to install TomCat***
-groupone.chnfim8mzrlx.us-east-2.rds.amazonaws.com
-
-Equal Contribution
 
 Admin Key 123 abc
-
+groupone.chnfim8mzrlx.us-east-2.rds.amazonaws.com
 "jdbc:mysql:"
 
 "//groupone.chnfim8mzrlx.us-east-2.rds.amazonaws.com:3306/"
